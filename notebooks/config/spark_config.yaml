@@ -1,0 +1,6 @@
+spark:
+  appName: CrimeArrestPrediction
+  shuffle_partitions: 200
+  executor_memory: 4g
+  driver_memory: 4g
+  dataset_size: 8.4M_records
