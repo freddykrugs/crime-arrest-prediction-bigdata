@@ -1,0 +1,19 @@
+# Large data files
+*.csv
+*.parquet
+*.model
+crimes_parquet/
+final_lr_model/
+
+# Spark output
+spark-warehouse/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
